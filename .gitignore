@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Secrets / environment variables
+.env
+
+# Python and Jupyter caches
+__pycache__/
+.ipynb_checkpoints/
+
+# Open-Meteo responses cached by requests-cache
+weather_cache.sqlite
+
+# macOS
+.DS_Store
