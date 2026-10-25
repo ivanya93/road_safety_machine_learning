@@ -87,9 +87,9 @@ The processed files are committed, so you can start with notebook 03 without run
 - [x] Data understanding and quality decisions
 - [x] Region assignment and target table
 - [x] Calendar, climate and history features → `model_table.csv`
-- [ ] Baseline and evaluation set-up
-- [ ] GLM Poisson, XGBoost, Random Forest
-- [ ] Ensemble and final test
+- [x] Baseline and evaluation set-up
+- [x] GLM Poisson, XGBoost, Random Forest
+- [x] Ensemble and final test
 
 ## Team
 
